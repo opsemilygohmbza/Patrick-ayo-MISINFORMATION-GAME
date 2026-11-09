@@ -1,9 +1,0 @@
-.qodo/
-node_modules/
-*.log
-dist/
-/.idea/
-/.vscode/
-*.pyc
-__pycache__/
-server/
